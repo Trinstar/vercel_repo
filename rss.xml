@@ -16,6 +16,7 @@
             <guid isPermalink="true">http://example.com/2025/07/04/2025-07-04-%E5%91%A8%E4%BA%94/</guid>
             <title>2025-07-04-周五</title>
             <link>http://example.com/2025/07/04/2025-07-04-%E5%91%A8%E4%BA%94/</link>
+            <category term="diary" scheme="http://example.com/tags/diary/" />
             <pubDate>Fri, 04 Jul 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;🌻日期🌻 : 2025/07/04&lt;br /&gt;
 🌞星期🌞: 星期五&lt;br /&gt;
