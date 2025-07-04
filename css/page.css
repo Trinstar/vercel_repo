@@ -2614,7 +2614,6 @@ main >.inner {
 }
 @media (max-width: 820px) {
   .waves {
-    height: 10vh;
     contain-intrinsic-size: 100vw 10vh;
   }
 }
