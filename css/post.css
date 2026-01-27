@@ -4098,6 +4098,12 @@ use.stop-animation {
   overflow-wrap: break-word;
   word-wrap: break-word;
 }
+.md a:not(.btn) {
+  border-bottom: 1px solid var(--grey-4);
+}
+.md a:not(.btn):hover {
+  border-bottom-color: var(--primary-color);
+}
 .md .exturl .ic {
   font-size: 0.875em;
   margin-left: 0.25rem;
@@ -4838,7 +4844,7 @@ code,
   border-left: 1px solid var(--grey-4);
 }
 .code-container .marked td {
-  background-color: var(--grey-3);
+  background-color: #f8eaea;
 }
 .code-container .marked:hover td:last-child {
   background-color: var(--color-red-a1);
