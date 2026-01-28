@@ -385,7 +385,7 @@ p(x) &amp;amp;= \left[ e^{m(x^{(1)}) - m(x)} p(x^{(1)}) \quad e^{m(x^{(2)}) - m(
         <id>http://example.com/2025/08/02/%E9%9D%92%E9%BE%994.0%E9%94%AE%E7%9B%98%20%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/</id>
         <title>青龙4.0键盘 使用说明</title>
         <link rel="alternate" href="http://example.com/2025/08/02/%E9%9D%92%E9%BE%994.0%E9%94%AE%E7%9B%98%20%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/"/>
-        <content type="html">&lt;h3 id=&#34;num区域多功能按键&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#num区域多功能按键&#34;&gt;#&lt;/a&gt; NUM 区域多功能按键&lt;/h3&gt;
+        <content type="html">&lt;h3 id=&#34;1-num-区域多功能按键&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-num-区域多功能按键&#34;&gt;#&lt;/a&gt; 1. Num 区域多功能按键&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;当 num 区域锁定时&lt;br /&gt;
  1 end&lt;br /&gt;
@@ -394,6 +394,14 @@ p(x) &amp;amp;= \left[ e^{m(x^{(1)}) - m(x)} p(x^{(1)}) \quad e^{m(x^{(2)}) - m(
 9 pgup&lt;br /&gt;
 0 ins&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;2-fn-快捷键&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-fn-快捷键&#34;&gt;#&lt;/a&gt; 2. Fn 快捷键&lt;/h3&gt;
+&lt;figure&gt;
+  &lt;img src = &#34;https://images.trinstar.cn/202508_20250802143055898.png&#34; alt=&#34;roofline model&#34; width=&#34;800px&#34;&gt;
+&lt;/figure&gt;
+&lt;h3 id=&#34;3-winmac-切换&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-winmac-切换&#34;&gt;#&lt;/a&gt; 3. WIN/MAC 切换&lt;/h3&gt;
+&lt;figure&gt;
+  &lt;img src = &#34;https://images.trinstar.cn/202508_20250802143220059.png&#34; alt=&#34;roofline model&#34; width=&#34;800px&#34;&gt;
+&lt;/figure&gt;
 </content>
         <category term="随记" scheme="http://example.com/tags/%E9%9A%8F%E8%AE%B0/" />
         <updated>2025-08-02T06:34:55.352Z</updated>
