@@ -1,3 +1,11 @@
 main {
   min-height: 100vh;
 }
+
+/* 规范化图片标题样式 */
+figcaption {
+  color: #888;
+  font-size: 0.9em;
+  margin-top: 0.5em;
+  text-align: center;
+}
