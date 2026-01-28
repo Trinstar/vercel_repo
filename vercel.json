@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/images/:path*","destination":"https://images.trinstar.cn/:path*"}]}
