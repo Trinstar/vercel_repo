@@ -2078,6 +2078,9 @@ main >.inner {
   min-height: 25rem;
   z-index: -9;
   background-color: #363636;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   content-visibility: auto;
   contain-intrinsic-size: 100vw 70vh;
 }
