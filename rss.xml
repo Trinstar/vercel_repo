@@ -10,8 +10,18 @@
         </author>
         <description>Trinstar&#39;s Blog</description>
         <language>en</language>
-        <pubDate>Thu, 29 Jan 2026 14:30:47 +0800</pubDate>
-        <lastBuildDate>Thu, 29 Jan 2026 14:30:47 +0800</lastBuildDate>
+        <pubDate>Sun, 01 Feb 2026 18:56:22 +0800</pubDate>
+        <lastBuildDate>Sun, 01 Feb 2026 18:56:22 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2026/02/01/DINO-X/</guid>
+            <title>DINO-X</title>
+            <link>http://example.com/2026/02/01/DINO-X/</link>
+            <category term="LLM" scheme="http://example.com/tags/LLM/" />
+            <pubDate>Sun, 01 Feb 2026 18:56:22 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;1-dino-x&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-dino-x&#34;&gt;#&lt;/a&gt; 1 DINO-X&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2411.14347&#34;&gt;《DINO-X:AUnifiedVisionModelfor Open-WorldObjectDetectionandUnderstanding》&lt;/a&gt; 是 IDEA Research 在 2024 年 11 月 20 号 发布的具有最佳开放世界物体检测性能的统一的以物体为中心的视觉模型。&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2026/01/29/LoRA%20%E5%BE%AE%E8%B0%83/</guid>
             <title>LoRA 微调</title>

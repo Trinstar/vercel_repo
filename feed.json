@@ -7,6 +7,16 @@
     "home_page_url": "http://example.com",
     "items": [
         {
+            "id": "http://example.com/2026/02/01/DINO-X/",
+            "url": "http://example.com/2026/02/01/DINO-X/",
+            "title": "DINO-X",
+            "date_published": "2026-02-01T10:56:22.325Z",
+            "content_html": "<h1 id=\"1-dino-x\"><a class=\"anchor\" href=\"#1-dino-x\">#</a> 1 DINO-X</h1>\n<p><a href=\"https://arxiv.org/abs/2411.14347\">《DINO-X:AUnifiedVisionModelfor Open-WorldObjectDetectionandUnderstanding》</a> 是 IDEA Research 在 2024 年 11 月 20 号 发布的具有最佳开放世界物体检测性能的统一的以物体为中心的视觉模型。</p>\n",
+            "tags": [
+                "LLM"
+            ]
+        },
+        {
             "id": "http://example.com/2026/01/29/LoRA%20%E5%BE%AE%E8%B0%83/",
             "url": "http://example.com/2026/01/29/LoRA%20%E5%BE%AE%E8%B0%83/",
             "title": "LoRA 微调",
